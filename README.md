@@ -1,3 +1,8 @@
+SERVER LOCATOR project
+
+
+
+
 app.py will be the main module to be runned and consists of main() and links to all other modules
 
 IP_finder.py  has function ip_finder which inputs the data from user and finds it ip and returns the ip
