@@ -1,1 +1,5 @@
+requests
+BeautifulSoup4
+webbrowser
+socket
 
